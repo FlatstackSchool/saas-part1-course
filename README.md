@@ -3,9 +3,9 @@ Developing SaaS with Rails. Part I
 
 
 ### Lectures:
-* [Lecture 1](lectures/lecture-1)
-* [Lecture 2](lectures/lecture-2)
-* [Lecture 3](lectures/lecture-3)
+* [Lecture 1. Цели курса. SaaS, Agile](lectures/lecture-1)
+* [Lecture 2. Введение в Ruby и RubyOnRails](lectures/lecture-2)
+* [Lecture 3. Введение в Ruby. Git & Github](lectures/lecture-3)
 * [Lecture 4](lectures/lecture-4)
 * [Lecture 5](lectures/lecture-5)
 * [Lecture 6](lectures/lecture-6)
